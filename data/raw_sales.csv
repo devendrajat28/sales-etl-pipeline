@@ -1,0 +1,12 @@
+order_id,customer_name,product,category,quantity,price,discount,city,date,status
+ORD001,Raj Kumar,Laptop,Electronics,1,45000,10,Mumbai,2024-01-15,Delivered
+ORD002,Priya Sharma,Nike Shoes,Clothing,2,3500,5,Delhi,2024-01-16,Delivered
+ORD003,Amit Singh,Python Book,Books,3,500,0,Bangalore,2024-01-17,Cancelled
+ORD004,,Coffee Maker,Home,1,2500,15,Hyderabad,2024-01-18,Delivered
+ORD005,Neha Gupta,Headphones,Electronics,1,2000,20,Chennai,2024-01-19,Shipped
+ORD001,Raj Kumar,Laptop,Electronics,1,45000,10,Mumbai,2024-01-15,Delivered
+ORD006,Suresh Patel,Gym Dumbbell,Sports,-1,1500,0,Pune,2024-01-20,Delivered
+ORD007,Kavya Reddy,Face Cream,Beauty,2,800,10,Mumbai,2024-01-21,Delivered
+ORD008,Rohit Mehta,Samsung TV,Electronics,1,35000,5,,2024-01-22,Delivered
+ORD009,Anjali Das,Yoga Mat,Sports,1,1200,0,Kolkata,2024-01-23,Returned
+ORD010,Vikram Joshi,Laptop Bag,Electronics,2,1500,10,Delhi,2024-01-24,Delivered
